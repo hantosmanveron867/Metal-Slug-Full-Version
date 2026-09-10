@@ -251,3 +251,6 @@ This repository serves as the official landing page for Metal Slug. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Metal Slug today!**
+
+---
+**Last updated:** 2026-09-10 13:58:07 UTC
