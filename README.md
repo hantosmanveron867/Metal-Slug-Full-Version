@@ -253,4 +253,4 @@ This repository serves as the official landing page for Metal Slug. The software
 **Get the most recent version of Metal Slug today!**
 
 ---
-**Last updated:** 2026-09-24 22:51:40 UTC
+**Last updated:** 2026-09-25 01:02:32 UTC
